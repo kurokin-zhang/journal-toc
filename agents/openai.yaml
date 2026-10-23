@@ -1,0 +1,4 @@
+interface:
+  display_name: "期刊目录"
+  short_description: "按最近几期、指定卷期或年份，收集英文期刊完整目录并生成中英文对照导览"
+  default_prompt: "使用 $journal-toc，按我指定的英文期刊和卷期或年份范围，整理按期分组的完整中英文对照目录。"
